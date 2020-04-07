@@ -1,0 +1,6 @@
+[submodule "PartyInvites"]
+	path = PartyInvites
+	url = ./PartyInvites
+[submodule "Vidly"]
+	path = Vidly
+	url = ./Vidly
